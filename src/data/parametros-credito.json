@@ -1,0 +1,44 @@
+{
+  "lineas": {
+    "libre-inversion": {
+      "id": "libre-inversion",
+      "nombre": "Libre Inversión",
+      "descripcion": "Desde 1.15% M.V.",
+      "tasaNMV": 1.15,
+      "tasaEA": 14.71,
+      "montoMin": 1000000,
+      "montoMax": 100000000,
+      "defaultMonto": 20000000,
+      "plazos": [12, 24, 36, 48, 60, 72],
+      "defaultPlazo": 48,
+      "seguroVidaFijo": 28000
+    },
+    "vivienda": {
+      "id": "vivienda",
+      "nombre": "Vivienda",
+      "descripcion": "Desde 0.89% M.V.",
+      "tasaNMV": 0.89,
+      "tasaEA": 11.20,
+      "montoMin": 20000000,
+      "montoMax": 800000000,
+      "defaultMonto": 100000000,
+      "plazos": [60, 120, 180, 240],
+      "defaultPlazo": 180,
+      "seguroVidaFijo": 45000
+    },
+    "vehiculo": {
+      "id": "vehiculo",
+      "nombre": "Vehículo",
+      "descripcion": "Desde 1.03% M.V.",
+      "tasaNMV": 1.03,
+      "tasaEA": 13.15,
+      "montoMin": 10000000,
+      "montoMax": 200000000,
+      "defaultMonto": 35000000,
+      "plazos": [12, 24, 36, 48, 60, 72],
+      "defaultPlazo": 48,
+      "seguroVidaFijo": 32000
+    }
+  },
+  "montosRapidos": [10000000, 20000000, 50000000, 100000000]
+}

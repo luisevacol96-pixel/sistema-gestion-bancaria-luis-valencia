@@ -1,0 +1,102 @@
+[
+  {
+    "id": "credito-vivienda",
+    "category": "creditos",
+    "name": "Crédito de Vivienda",
+    "tagline": "Haz crecer tu propio hogar con plazos hasta 30 años, tasas preferenciales y opción de leasing habitacional.",
+    "badge": "Hasta 30 Años",
+    "tasaReferencial": "Desde 11.20% E.A.",
+    "tasaMensual": "0.89% M.V.",
+    "plazoMin": 12,
+    "plazoMax": 240,
+    "montoMin": 20000000,
+    "montoMax": 800000000,
+    "requisitos": "Ingresos desde 2 SMMLV, estudio de títulos y avalúo comercial.",
+    "beneficios": [
+      "Financiación hasta el 80% para VIS y 70% para No VIS",
+      "Abonos extraordinarios a capital sin ninguna sanción",
+      "Seguros integrales obligatorios de vida, incendio y terremoto"
+    ],
+    "linkSimulador": "/simulador-credito?tipo=vivienda"
+  },
+  {
+    "id": "libre-inversion",
+    "category": "creditos",
+    "name": "Crédito de Libre Inversión",
+    "tagline": "Liquidez inmediata para tus proyectos, viajes o consolidación de deudas sin hipoteca ni codeudor.",
+    "badge": "Inmediato 100% Digital",
+    "tasaReferencial": "Desde 15.40% E.A.",
+    "tasaMensual": "1.15% M.V.",
+    "plazoMin": 12,
+    "plazoMax": 84,
+    "montoMin": 1000000,
+    "montoMax": 100000000,
+    "requisitos": "Ingresos demostrables desde 1.5 SMMLV, sin gravamen hipotecario.",
+    "beneficios": [
+      "Desembolso express en cuenta bancaria en menos de 24 horas",
+      "Cuota fija mensual garantizada en pesos durante toda la vigencia",
+      "Canales de gestión 100% virtuales y soporte personalizado"
+    ],
+    "linkSimulador": "/simulador-credito?tipo=libre-inversion"
+  },
+  {
+    "id": "credito-vehiculo",
+    "category": "creditos",
+    "name": "Crédito de Vehículo",
+    "tagline": "Adquiere tu vehículo particular nuevo o usado con financiación de hasta el 90% y aprobación express.",
+    "badge": "Financiación hasta el 90%",
+    "tasaReferencial": "Desde 13.15% E.A.",
+    "tasaMensual": "1.03% M.V.",
+    "plazoMin": 12,
+    "plazoMax": 84,
+    "montoMin": 10000000,
+    "montoMax": 200000000,
+    "requisitos": "Prenda sobre el vehículo a financiar, seguro todo riesgo, factura proforma.",
+    "beneficios": [
+      "Financiación para vehículos nuevos y usados de hasta 8 años",
+      "Opción de periodo de gracia en las dos primeras cuotas",
+      "Aprobación rápida en menos de 2 horas con perfilamiento digital"
+    ],
+    "linkSimulador": "/simulador-credito?tipo=vehiculo"
+  },
+  {
+    "id": "cdt-digital",
+    "category": "inversion",
+    "name": "CDT (Certificado de Depósito a Término)",
+    "tagline": "Multiplica tu patrimonio con liquidez programada, cero volatilidad y el respaldo de la garantía Fogafín.",
+    "badge": "Respaldado por Fogafín",
+    "tasaReferencial": "Hasta 11.45% E.A.",
+    "tasaMensual": "0.91% M.V.",
+    "plazoMin": 90,
+    "plazoMax": 540,
+    "montoMin": 500000,
+    "montoMax": 500000000,
+    "requisitos": "Apertura desde $500.000 COP, documento de identidad vigente colombiano.",
+    "beneficios": [
+      "Cero exposición bursátil con rentabilidad fija garantizada",
+      "Pago de rendimientos al vencimiento o abono mensual a cuenta",
+      "Amparado por el seguro de depósitos Fogafín hasta $50.000.000 COP"
+    ],
+    "linkSimulador": "/simulador-cdt"
+  },
+  {
+    "id": "cuenta-ahorros",
+    "category": "cuentas",
+    "name": "Cuenta de Ahorros FinanSer",
+    "tagline": "Administra tu dinero con cero cuota de manejo, transferencias gratis, tarjeta débito y rendimientos diarios.",
+    "badge": "$0 Cuota de Manejo",
+    "tasaReferencial": "1.50% E.A.",
+    "tasaMensual": "0.12% M.V.",
+    "plazoMin": 0,
+    "plazoMax": 0,
+    "montoMin": 0,
+    "montoMax": 1000000000,
+    "requisitos": "Apertura 100% digital desde $0 COP y cédula de ciudadanía.",
+    "beneficios": [
+      "Transferencias interbancarias ACH y Transfiya sin ningún costo",
+      "Tarjeta débito Visa Contactless con aceptación nacional e internacional",
+      "Banca virtual y notificaciones de seguridad en tiempo real 24/7"
+    ],
+    "linkSimulador": "/contacto?solicitud=cuenta-ahorros"
+  }
+]

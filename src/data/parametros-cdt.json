@@ -1,0 +1,40 @@
+{
+  "montoMinimo": 500000,
+  "retencionFuentePorcentaje": 0.04,
+  "coberturaFogafin": 50000000,
+  "plazos": [
+    {
+      "dias": 90,
+      "meses": 3,
+      "label": "90 d",
+      "sublabel": "3 Meses",
+      "tasaEA": 10.15
+    },
+    {
+      "dias": 180,
+      "meses": 6,
+      "label": "180 d",
+      "sublabel": "6 Meses",
+      "tasaEA": 10.75
+    },
+    {
+      "dias": 360,
+      "meses": 12,
+      "label": "360 d",
+      "sublabel": "12 Meses",
+      "tasaEA": 11.45
+    },
+    {
+      "dias": 540,
+      "meses": 18,
+      "label": "540 d",
+      "sublabel": "18 Meses",
+      "tasaEA": 11.85
+    }
+  ],
+  "montosRapidos": [2000000, 5000000, 10000000, 20000000],
+  "modalidadesPago": [
+    { "id": "vencimiento", "nombre": "Al Vencimiento" },
+    { "id": "mensual", "nombre": "Mensual" }
+  ]
+}

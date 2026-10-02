@@ -1,0 +1,25 @@
+{
+  "sedePrincipal": {
+    "nombre": "Torre Financiera FinanSer",
+    "direccion": "Carrera 7 # 71-21, Torre Financiera FinanSer, Piso 12",
+    "ciudad": "Bogotá D.C., Colombia",
+    "telefono": "+57 (601) 345 6789",
+    "parqueadero": "Disponible con validación presencial para clientes con cita activa.",
+    "indicaciones": "Presentar documento de identidad original en la recepción de la torre."
+  },
+  "canalesTelefonicos": {
+    "lineaNacionalGratuita": "01 8000 123 456",
+    "pbxBogota": "+57 (601) 345 6789",
+    "whatsappCorporativo": "+57 300 123 4567"
+  },
+  "correos": {
+    "atencionGeneral": "contacto@finanser.com.co",
+    "soporteTecnico": "soporte@finanser.com.co",
+    "defensoria": "defensoria@finanser.com.co"
+  },
+  "horarios": {
+    "semana": "Lunes a Viernes: 8:00 a.m. - 4:30 p.m. (Jornada Continua)",
+    "sabados": "Sábados: 8:00 a.m. - 1:00 p.m.",
+    "canalesVirtuales": "Atención virtual y web 24/7 los 365 días"
+  }
+}
